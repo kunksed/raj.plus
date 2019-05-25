@@ -3,7 +3,6 @@ import { Link } from 'gatsby'
 import thinking from '../images/thinking.png'
 import sun from '../images/sun.svg'
 import moon from '../images/moon.svg'
-import kofi from '../../content/thumbnails/kofi.png'
 import ThemeContext from '../context/ThemeContext'
 
 export default class Navigation extends Component {
@@ -49,9 +48,6 @@ export default class Navigation extends Component {
                 {link.name}
               </Link>
             ))}
-            <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/taniarascia">
-              <img src={kofi} alt="Kofi" className="kofi" />
-            </a>
             <div className="cta">
               <button className="dark-switcher" onClick={theme.toggleDark}>
                 {theme.dark ? (

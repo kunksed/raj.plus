@@ -11,7 +11,7 @@ import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
 import speaking from '../../data/speaking'
-import podcasts from '../../data/podcasts'
+import publications from '../../data/publications'
 import react from '../../content/thumbnails/react.png'
 import vue from '../../content/thumbnails/vue.png'
 import js from '../../content/thumbnails/js.png'
@@ -25,57 +25,33 @@ export default class Index extends Component {
 
     return (
       <Layout>
-        <Helmet title={`${config.siteTitle} – Full-Stack Software Developer`} />
+        <Helmet title={`${config.siteTitle} – Entrepreneur, Learner`} />
         <SEO />
         <div className="container">
           <div className="lead">
             <div>
-              <h1>{`Hi, I'm Tania`}</h1>
+              <h1>{`Hi, I'm Raj`}</h1>
               <p>
-                {`I'm a full-stack software developer specializing in modern JavaScript. I write about
-                what I know and break down complex concepts in an accessible and intuitive
-                way.`}
+                  I'm an entrepreneur operating in the domain of education. I love to learn while 
+                  helping others learn. I'm currently building <a href="https://novasemita.com" target="_blank"> 
+                  Nova Semita</a>, a fellowship which empowers the best of Indian talent.
               </p>
               <p>
-                I like making things from scratch and <a href="/learn">learning in public</a>. My
-                open source projects include{' '}
-                <a href="https://github.com/taniarascia/laconia/" target="blank">
-                  an MVC framework
-                </a>
-                ,{' '}
-                <a href="https://taniarascia.github.io/primitive/" target="blank">
-                  a CSS framework
-                </a>
-                ,{' '}
-                <a href="https://github.com/taniarascia/chip8/" target="blank">
-                  an old-school emulator
-                </a>
-                , and{' '}
-                <a href="https://taniarascia.github.io/new-moon/" target="blank">
-                  the optimized dark theme
-                </a>{' '}
-                for web development.
+                My interests are diverse and across scales - I majored in physics and dabble in thinking about technology & society.
+                I spend considerable time learning and interacting with others on the internet. I am trying to <a href="/learn">learn in public</a> in a bid to share my insights and get feedback. 
               </p>
               <div className="social-buttons">
                 <div>
                   <a
                     className="twitter-follow-button"
-                    href="https://twitter.com/taniarascia"
+                    href="https://twitter.com/kunksed"
                     data-size="large"
                     data-show-screen-name="false"
                   >
-                    Follow @taniarascia
+                    Follow @kunksed
                   </a>
                 </div>
                 <div>
-                  <GitHubButton
-                    href="https://github.com/taniarascia"
-                    data-size="large"
-                    data-show-count="true"
-                    aria-label="Follow @taniarascia on GitHub"
-                  >
-                    Follow
-                  </GitHubButton>
                 </div>
               </div>
             </div>
@@ -94,24 +70,26 @@ export default class Index extends Component {
         </div>
 
         <div className="container front-page">
-          <section className="section">
-            <h2>Latest Articles</h2>
-            <PostListing simple postEdges={latestPostEdges} />
-          </section>
-
-          <section className="section">
-            <h2>Most Popular</h2>
-            <PostListing simple postEdges={popularPostEdges} />
-          </section>
-
-          <section className="section">
-            <h2>Open Source Projects</h2>
+        <section className="section">
+            <h2>Projects in Progress</h2>
             <ProjectListing projects={projects} />
           </section>
 
           <section className="section">
-            <h2>Podcasts</h2>
-            <SimpleListing simple data={podcasts} />
+            <h2>Latest Essays</h2>
+            <PostListing simple postEdges={latestPostEdges} />
+          </section>
+
+          {/*
+          <section className="section">
+            <h2>Most Popular</h2>
+            <PostListing simple postEdges={popularPostEdges} />
+          </section>
+          */}
+
+          <section className="section">
+            <h2>Publications</h2>
+            <SimpleListing simple data={publications} />
           </section>
 
           <section className="section">

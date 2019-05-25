@@ -1,17 +1,23 @@
-import wordpress from '../content/thumbnails/wp.png'
-import react from '../content/thumbnails/react.png'
+import firebase from '../content/thumbnails/firebase.png'
+import mario from '../content/thumbnails/mario.png'
+import einstein from '../content/thumbnails/einstein.png'
 
 const speaking = [
   {
-    title: 'JS Chicago - An Introduction to React',
-    path: 'https://www.meetup.com/js-chi/events/258154685/',
-    img: react
+    title: 'Google DevFest : Going Serverless with Firebase',
+    path: 'https://medium.com/@vvsn97/google-devfest-2018-25e12ec2c6cc',
+    img: firebase
   },
   {
-    title: 'WordCamp Chicago - Developing a WordPress Theme from Scratch',
+    title: 'Vidyavriksh Research : Intro to Evolutionary Game Theory',
     path:
-      'https://wordpress.tv/2017/08/30/tania-rascia-how-to-develop-a-wordpress-theme-from-scratch/',
-    img: wordpress
+      'https://www.youtube.com/watch?v=jCTWN5lKdYs&list=PLd2tU0OaAnk0smdJhWRhcLAsKval4WRl7',
+    img: mario
+  },
+  {
+    title: 'Prudent Media : Einstein & Relativity (Konkani)',
+    path: 'https://rajkunkolienkar.wordpress.com/scipop/',
+    img: einstein
   }
 ]
 

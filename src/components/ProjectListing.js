@@ -27,9 +27,8 @@ export default class ProjectListing extends Component {
                   Site
                 </a>
               )}
-              <GitHubButton href={project.source} data-size="large" data-show-count="true">
-                Source
-              </GitHubButton>
+              {'source' in project ? (<GitHubButton href={project.source} data-size="large" data-show-count="true"> Source </GitHubButton>) : null}
+              
             </div>
           </div>
         ))}

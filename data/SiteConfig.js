@@ -27,7 +27,11 @@ const config = {
       link: '/me/',
     },
     {
-      name: 'Articles',
+      name : 'Learn',
+      link : '/learn/',
+    },
+    {
+      name: 'Essays',
       link: '/blog/',
     },
     {
