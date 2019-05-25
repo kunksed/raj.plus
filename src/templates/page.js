@@ -45,14 +45,6 @@ export const pageQuery = graphql`
         title
         template
       }
-      fields {
-        nextTitle
-        nextSlug
-        prevTitle
-        prevSlug
-        slug
-        date
-      }
     }
   }
 `
