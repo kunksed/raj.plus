@@ -1,6 +1,6 @@
-# taniarascia.com [![Netlify Status](https://api.netlify.com/api/v1/badges/0a51d0e9-f611-4dd8-887f-fc1889e68540/deploy-status)](https://app.netlify.com/sites/tania/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# raj.plus [![Netlify Status](https://api.netlify.com/api/v1/badges/0a51d0e9-f611-4dd8-887f-fc1889e68540/deploy-status)](https://app.netlify.com/sites/tania/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Personal website running on Gatsby, React, and Node.js.
+Personal website running on Gatsby, React, and Node.js, primarily developed by [Tania Rascia](https://github.com/taniarascia/)
 
 - [Read about it on the official Gatsby blog!](https://www.gatsbyjs.org/blog/2019-03-21-migrating-from-wordpress-to-gatsby/)
 
