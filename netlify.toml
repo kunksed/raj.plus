@@ -12,9 +12,9 @@
 [[redirects]]
   from = "/meet"
   to = "https://www.meetingbird.com/l/rajk/meet"
-  status = 200
+  status = 302
 
 [[redirects]]
   from = "/chat"
   to = "https://www.meetingbird.com/l/rajk/ns-friends"
-  status = 200
+  status = 302
