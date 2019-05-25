@@ -3,3 +3,18 @@
   command = "yarn run build"
 [build.environment]
   YARN_VERSION = "1.7.0"
+
+[[redirects]]
+  from = "/ns-chat"
+  to = "https://www.meetingbird.com/h/rajk"
+  status = 200
+
+[[redirects]]
+  from = "/meet"
+  to = "https://www.meetingbird.com/l/rajk/meet"
+  status = 200
+
+[[redirects]]
+  from = "/chat"
+  to = "https://www.meetingbird.com/l/rajk/ns-friends"
+  status = 200

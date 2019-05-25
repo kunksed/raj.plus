@@ -1,4 +1,4 @@
-# raj.plus [![Netlify Status](https://api.netlify.com/api/v1/badges/0a51d0e9-f611-4dd8-887f-fc1889e68540/deploy-status)](https://app.netlify.com/sites/tania/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# raj.plus [![Netlify Status][![Netlify Status](https://api.netlify.com/api/v1/badges/16d33895-7008-4a64-9c6b-44fb160279cc/deploy-status)](https://app.netlify.com/sites/kunksed/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Personal website running on Gatsby, React, and Node.js, primarily developed by [Tania Rascia](https://github.com/taniarascia/)
 
