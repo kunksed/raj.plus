@@ -5,27 +5,22 @@ export default class Footer extends Component {
   render() {
     return (
       <footer className="footer container">
-        <a href="https://ko-fi.com/taniarascia" target="_blank" rel="noopener noreferrer">
-          Ko-Fi
-        </a>
-        <a href="https://patreon.com/taniarascia" target="_blank" rel="noopener noreferrer">
-          Patreon
-        </a>
-        <a href="https://twitter.com/taniarascia" target="_blank" rel="noopener noreferrer">
+        <a href="https://twitter.com/kunksed" target="_blank" rel="noopener noreferrer">
           Twitter
         </a>
-        <a href="https://github.com/taniarascia" target="_blank" rel="noopener noreferrer">
-          GitHub
+        <a
+          href="https://github.com/kunksed/raj.plus"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Site Repo
         </a>
-        <Link to="/rss.xml" target="_blank" rel="noopener noreferrer">
-          RSS
-        </Link>
         <a
           href="https://github.com/taniarascia/taniarascia.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          View source
+          OG source
         </a>
       </footer>
     )

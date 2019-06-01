@@ -11,7 +11,7 @@ const config = {
   siteDescription:
     'Raj Kunkolienkar is an entrepreneur who works in the domain of education and productivity. Being a generalist, his interests span markerplaces, physics and technology.',
   siteRss: '/rss.xml',
-  googleAnalyticsID: 'UA-42068444-1',
+  googleAnalyticsID: 'UA-141254014-1',
   disqusShortname: 'taniarascia',
   postDefaultCategoryID: 'Tech',
   userName: 'Raj',
@@ -35,7 +35,7 @@ const config = {
       link: '/blog/',
     },
     {
-      name: 'Contact',
+      name: '🤙🏼',
       link: '/contact/',
     },
   ],

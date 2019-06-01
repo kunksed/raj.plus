@@ -12,9 +12,9 @@ import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
 import speaking from '../../data/speaking'
 import publications from '../../data/publications'
-import react from '../../content/thumbnails/react.png'
-import vue from '../../content/thumbnails/vue.png'
-import js from '../../content/thumbnails/js.png'
+import transfer from '../../content/thumbnails/transfer.png'
+import profits from '../../content/thumbnails/profits.png'
+import paperplane from '../../content/thumbnails/paper-plane.png'
 
 export default class Index extends Component {
   render() {
@@ -56,15 +56,16 @@ export default class Index extends Component {
               </div>
             </div>
             <div className="callouts">
-              <Link to="/getting-started-with-react" className="article-callout">
-                <img src={react} alt="React" /> React
-              </Link>
-              <Link to="/getting-started-with-vue" className="article-callout">
-                <img src={vue} alt="Vue" /> Vue
-              </Link>
-              <Link to="/es6-syntax-and-feature-overview/" className="article-callout">
-                <img src={js} alt="JS" /> JavaScript ES6
-              </Link>
+            <center> On My Mind 👇🏽 </center>
+              <a href="https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/" className="article-callout">
+                <img src={transfer} alt="Marketplace" /> Marketplaces
+              </a>
+              <a href="https://medium.com/@eriktorenberg_/life-capital-9e5028c0ea12" className="article-callout">
+                <img src={profits} alt="Life Capital" /> Life Capital
+              </a>
+              <a href="https://freelearners.org" className="article-callout">
+                <img src={paperplane} alt="Free Learning" /> Free Learning
+              </a>
             </div>
           </div>
         </div>
@@ -97,33 +98,11 @@ export default class Index extends Component {
             <SimpleListing simple data={speaking} />
           </section>
 
-          <section className="section">
-            <h2>{`Other People's Opinions`}</h2>
-            <div className="quotations">
-              <blockquote className="quotation">
-                <p>
-                  {`“It's no exaggeration to say that I
-                wouldn't currently have a job in development without this site. So thanks for
-                ruining my life, Tania.”`}
-                </p>
-                <cite>— Craig</cite>
-              </blockquote>
-              <blockquote className="quotation">
-                <p>
-                  {`“Not to get too dramatic, but I find your site to be an unspeakably beautiful
-                lifeboat in an overwhelming sea of technical jargon and shite.”`}
-                </p>
-                <cite>— Lori</cite>
-              </blockquote>
-            </div>
-          </section>
-
           <section className="newsletter-section section">
-            <h2>Join the Newsletter</h2>
+            <h2>Join my Newsletter</h2>
             <p>
-              I write about JavaScript, programming, and front-end design. Join over {' '}
-              <strong class="pink">6,000</strong> other developers in keeping up with my content.
-              Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>
+            I am trying to regularly write down thoughts on mental models and frameworks, life as a founder, suggestions for new apps and products, the future of learning as well as what I am reading and listening to as of late. 
+            Subscribe, maybe? 
             </p>
             <NewsletterForm />
           </section>
