@@ -1,5 +1,11 @@
 const projects = [
   {
+    icon: '🐣',
+    title: ' Yuva Fund',
+    path: 'http://yuva.fund',
+    description: 'A collective supporting and investing in student led ventures in India.',
+  },
+  {
     icon: '📚',
     title: 'Podin',
     path: 'https://pocketzero.xyz',
@@ -9,11 +15,6 @@ const projects = [
     icon: '🛍',
     title: 'D2C India',
     description: 'A catalogue of all the Indian brands in the direct to consumer space.',
-  },
-  {
-    icon: '🐣',
-    title: ' Yuva Ventures',
-    description: 'A community of student startups, entrepreneurship enthusiasts and developers across India.',
   }
 ]
 export default projects

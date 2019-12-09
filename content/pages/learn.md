@@ -4,189 +4,36 @@ slug: learn
 template: page
 ---
 
-There's a lot I want to learn, and a lot I've learned. Here's where I list both.
+I am a student of reality seeking to be a better moulder of reality.
 
-## To Learn:
+The purpose of this page is to document my obsessions and the processes that drive my learning.
 
-My current focus is **Computer Science** fundamentals and all things **JavaScript**.
+### Learning is violent and painful.
+Learning happens when your existing mental models are amended to factor in new data. The more the conflict between the incoming data and your existing model, the more of an opportunity it is for you to incorporate the change. These radical changes don't come easy -- the pain and violence associated with forging a new model is immense. 
 
-### Computer Science
 
-#### Data Structures
+## My Learning Process
 
-- [ ] Lists
-  - [ ] Arrays
-  - [ ] Linked lists
-    - [ ] Singly linked lists
-    - [ ] Doubly linked lists
-- [ ] Stack
-- [ ] Queue
-- [ ] Hash tables
-- [ ] Trees
-  - [ ] Binary tree
-  - [ ] Segment tree
-- [ ] Heap
-- [ ] Graph
+I have discovered that there is a pattern to how I end up learning things. 
 
-#### Algorithms
+- I bump into an interesting narrative around a concept / idea / framework.
+- It simmers in my mind for a fortnight or two.
+- My interest picks up as I notice the concept / idea / framework playing out in my life.
+- This quickly escalates into an *obsession* -- I try and observe the world *through* it. 
+- This phase lasts about a month. It [probably](https://medium.com/syncedreview/a-rational-analysis-of-curiosity-91198f4a9173) ends when the concept is integrated into my mental models. 
 
-- [ ] Complexity (Big O notation)
-  - [ ] Size complexity
-  - [ ] Time complexity
-- [ ] Sorting
-  - [ ] Bubble
-  - [ ] Insertion
-  - [ ] Selection
-  - [ ] Merge
-  - [ ] Heap
-  - [ ] Quick
-- [ ] Searching
-  - [ ] Binary search
-- [ ] Pattern matching
-- [ ] Recursion
+At times, I end up spinning out side projects or ventures that take on a life of their own. 
 
-### JavaScript
+For the rest of my obsessions, I file them away hoping to put them to use in the future.
 
-#### Concepts
+## Obsessions
 
-- [ ] Map, Set
-- [ ] WeakMap, WeakSet
-- [ ] Closures
-- [ ] Promises, Async/Await, Microtasks, Event Loop
-- [ ] Bind, Call, Apply
-- [ ] Generators
-- [ ] `this` behavior
-- [ ] Bitwise Operators
+#### Dec '19
+- **Risk Pooling** for high risk careers
+- **Outsourcing** : India's strengths and weaknesses
+- **High Agency Individuals** and the future of firms.
 
-#### Document Object Model (DOM) and Web APIs
-
-- [ ] Scrolling
-- [ ] Drag and Drop
-- [ ] WebSockets
-- [ ] File Handling
-- [ ] Cookies
-
-### Networking
-
-- [ ] Sockets
-
-### Databases
-
-- [ ] GraphQL
-- [ ] NoSQL (MongoDB, Firebase)
-
-### DevOps and CI/CD
-
-- [ ] Docker
-- [ ] Creating a Pipeline
-
-## Learned:
-
-This is not everything I know, but a good amount of the things I've documented since I started this site.
-
-### JavaScript
-
-#### Concepts
-
-- [x] [Syntax and Code Structure](/understanding-syntax-and-code-structure-in-javascript)
-- [x] [Comments](/how-to-write-comments-in-javascript)
-- [x] [Datatypes](javascript-day-one/)
-- [x] [Strings](/how-to-work-with-strings-in-javascript)
-- [x] [Strings (cont.)](/how-to-index-split-and-manipulate-strings-in-javascript)
-- [x] [Variables, Scope and Hoisting](/understanding-variables-scope-hoisting-in-javascript)
-- [x] [Math](/how-to-do-math-in-javascript-with-operators)
-- [x] [Arrays](/understanding-arrays-in-javascript)
-- [x] [Array Methods - Mutator](/understanding-arrays-in-javascript)
-- [x] [Array Methods - Accessor](/how-to-use-array-methods-in-javascript-accessor-methods)
-- [x] [Array Methods - Iteration](/how-to-use-array-methods-in-javascript-iteration-methods)
-- [x] [Objects](/understanding-objects-in-javascript)
-- [x] [Object Methods](/how-to-use-object-methods-in-javascript)
-- [x] [Date and Time](/understanding-date-and-time-in-javascript)
-- [x] [Conditional Statements and Logic](/how-to-write-conditional-statements-in-javascript)
-- [x] [Switch](/how-to-use-the-switch-statement-in-javascript)
-- [x] [While and Do While Loops](/while-do-while-loops-javascript)
-- [x] [For Loops](/how-to-construct-for-loops-in-javascript)
-- [x] [Functions](/how-to-define-functions-in-javascript)
-- [x] [Prototypes and Inheritance](/understanding-prototypes-and-inheritance-in-javascript)
-- [x] [Classes](/understanding-classes-in-javascript)
-- [x] [ES6](/es6-syntax-and-feature-overview/)
-- [x] [Buffers](/bits-bytes-bases-and-a-hex-dump-javascript/)
-
-#### Document Object Model (DOM)
-
-- [x] [The DOM](/introduction-to-the-dom)
-- [x] [DOM Tree and Nodes](/understanding-the-dom-tree-and-nodes)
-- [x] [Accessing the DOM](/how-to-access-elements-in-the-dom)
-- [x] [Traversing the DOM](/how-to-traverse-the-dom)
-- [x] [Changing the DOM](/how-to-make-changes-to-the-dom)
-- [x] [Events](/understanding-events-in-javascript)
-- [x] [Local and Session Storage](/how-to-use-local-storage-with-javascript/)
-
-#### Frameworks/Libraries
-
-- [x] [Vue.js](/getting-started-with-vue)
-- [x] [React](/getting-started-with-react/)
-  - [x] [Hooks API](/crud-app-in-react-with-hooks/)
-  - [x] [Context API](https://www.taniarascia.com/using-context-api-in-react/)
-  - [x] [Content Editable](/content-editable-elements-in-javascript-react/)
-- [x] [jQuery](/how-to-use-jquery-a-javascript-library/)
-
-### PHP
-
-- [x] Authentication
-- [x] Routing
-- [x] Sessions
-- [x] [CRUD: Creating and Reading](/create-a-simple-database-app-connecting-to-mysql-with-php/)
-- [x] [CRUD: Updating and Deleting](/create-a-simple-crud-database-app-php-update-delete/)
-- [x] [File Uploads](/how-to-upload-files-to-a-server-with-plain-javascript-and-php/)
-- [x] [WordPress Basics](/developing-a-wordpress-theme-from-scratch/)
-- [x] [WordPress Intermediate](/wordpress-from-scratch-part-two/)
-- [x] [WordPress Custom Fields](/wordpress-part-three-custom-fields-and-metaboxes/)
-
-### CSS
-
-- [x] Spacing, Styling
-- [x] Selectors and Specificity
-- [x] Positioning
-- [x] Box model
-- [x] Flexbox
-- [x] Floats
-- [x] [Responsive (Media Queries, Breakpoints)](/you-dont-need-a-framework/)
-- [x] [Shapes](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
-- [x] [Sass](/learn-sass-now/)
-- [x] [Bootstrap](/what-is-bootstrap-and-how-do-i-use-it/)
-
-### Tools/Frameworks/Concepts
-
-- [x] Git
-  - [x] [Push, Pull, Commit](/getting-started-with-git/)
-  - [x] Merge, Rebase, Branch, Stash, Pull Request
-- [x] [Mac Development](/setting-up-a-brand-new-mac-for-development/)
-- [x] [Command Line](/how-to-use-the-command-line-for-apple-macos-and-linux/)
-- [x] [Grunt](/getting-started-with-grunt-and-sass/)
-- [x] [Gulp](/getting-started-with-gulp/)
-- [x] [Node.js Ecosystem](/how-to-install-and-use-node-js-and-npm-mac-and-windows/)
-- [x] [Express](https://code.tutsplus.com/tutorials/code-your-first-api-with-nodejs-and-express-set-up-the-server--cms-31698)
-- [x] [LAMP Environment](/local-environment/)
-- [x] [Apache/Virtual Hosts](/setting-up-virtual-hosts/)
-- [x] [JSON](/how-to-use-json-data-with-php-or-javascript/)
-- [x] [REST API](/how-to-connect-to-an-api-with-javascript/)
-- [x] [SSL/TLS](<(/https-ssl-tls-certificate-how-to/)>)
-- [x] [Static Site Generators](/make-a-static-website-with-jekyll/)
-- [x] [Bash](/how-to-create-and-use-bash-scripts/)
-- [x] [Object-Oriented Paradigm](/object-oriented-pattern-javascript-php-classes/)
-
-### Databases
-
-- [x] [SQL](/overview-of-sql-commands-and-pdo-operations/)
-
-### Testing
-
-- [x] [Unit Tests](/unit-testing-in-javascript/)
-- [x] End-to-End Tests
-
-### DevOps and CI/CD
-
-- [x] AWS
-  - [x] [S3, EC2, RDS, Route 53](/getting-started-with-aws-setting-up-a-virtual-server/)
-- [x] [Vagrant/VirtualBox](/what-are-vagrant-and-virtualbox-and-how-do-i-use-them/)
+#### Nov '19
+- **Subscription** models for Indian consumers.
+- **Consumer Apps** : Product & Growth
+- **Monetary Economics** and foreign exchange markets.
