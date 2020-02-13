@@ -18,3 +18,18 @@
   from = "/chat"
   to = "https://www.meetingbird.com/l/rajk/ns-friends"
   status = 302
+  
+  [[redirects]]
+  from = "/wa"
+  to = "http://wa.me/919673374334"
+  status = 302
+  
+  [[redirects]]
+  from = "/ig"
+  to = "http://instagram.com/kunksed"
+  status = 302
+  
+  [[redirects]]
+  from = "/twtr"
+  to = "http://twitter.com/kunksed"
+  status = 302
