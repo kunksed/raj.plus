@@ -30,6 +30,6 @@
   status = 302
   
   [[redirects]]
-  from = "/twtr"
-  to = "http://twitter.com/kunksed"
+  from = "/zoom"
+  to = "https://zoom.us/j/4042067184"
   status = 302
