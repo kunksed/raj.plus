@@ -16,7 +16,7 @@
 
 [[redirects]]
   from = "/chat"
-  to = "https://www.meetingbird.com/l/rajk/ns-friends"
+  to = "https://www.meetingbird.com/l/rajk/chat"
   status = 302
   
   [[redirects]]
