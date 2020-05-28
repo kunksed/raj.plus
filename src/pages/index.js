@@ -32,13 +32,12 @@ export default class Index extends Component {
             <div>
               <h1>{`Hi, I'm Raj`}</h1>
               <p>
-                  I'm an entrepreneur operating in the domain of education. I love to learn while 
-                  helping others learn. I'm currently building <a href="https://novasemita.com" target="_blank"> 
-                  Nova Semita</a>, a fellowship which empowers the best of Indian talent.
+                  I'm an entrepreneur studying how Indians can make money online. I operate best in early stage conditions -- idea validation, building MVPs and growth. Bootstrapped <a href="https://novasemita.com" target="_blank"> 
+                  Nova Semita</a>, helped students get tech jobs at startups.
               </p>
               <p>
-                My interests are diverse and across scales - I majored in physics and dabble in thinking about technology & society.
-                I spend considerable time learning and interacting with others on the internet. I am trying to <a href="/learn">learn in public</a> in a bid to share my insights and get feedback. 
+                My interests are diverse and across scales - I majored in physics and dabble in thinking about technology, economics & society.
+                I spend considerable time learning and interacting with others on the internet, especially on Twitter. I <a href="/learn">learn in public</a>. 
               </p>
               <div className="social-buttons">
                 <div>
