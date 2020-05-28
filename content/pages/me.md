@@ -1,10 +1,9 @@
-
 ---
 title: About me
 slug: me
 template: page
-
 ---
+
 Hello there! 👋🏽
 
 I'm Raj Kunkolienkar and I am out to master being a jack of all. I optimize my experiences around gaining a sharp, unique worldview. I am based out of the lovely city of [Panaji](http://bit.ly/2KjyJaM) in Goa, India. 
