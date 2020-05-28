@@ -1,20 +1,40 @@
+
 ---
 title: About me
 slug: me
 template: page
 
 ---
+Hello there! 👋🏽
 
-I'm Raj Kunkolienkar and I believe that I am a master of being a jack of all. I am based out of the lovely city of [Panaji](http://bit.ly/2KjyJaM) in Goa, India. I believe that conversations are an artform, and my strength lies in bringing people together around new experiences in learning. 
+I'm Raj Kunkolienkar and I am out to master being a jack of all. I optimize my experiences around gaining a sharp, unique worldview. I am based out of the lovely city of [Panaji](http://bit.ly/2KjyJaM) in Goa, India. 
 
-I am currently dabbling in entrepreneurship because I find it to be the most effective way of learning about how the world works. However, I must admit that I have learnt as much about myself and the people around me than the world at large. I operate in the field of education because it's a good excuse to work up towards my ultimate goal of learning for a living. I optimize my experiences towards gaining an unique worldview.
+I co-founded [Nova Semita](http://novasemita.com) to contribute towards the employability of college students in India. I kickstarted [Yuva Fund](http://yuva.fund) to help student entrepreneurs learn by failing faster. These days, I spend time coaching founders on using Twitter to their advantage. I also help early stage ventures with customer research, MVPs, iterating product and growth. 
+
+## On Entrepreneurship
+
+I dabble in entrepreneurship because I find it to be the most effective way of learning about how the world works. However, I must admit that I have learnt as much about myself and the people around me than the world at large. Not only do I get to learn for a living, but I get to add value to people's lives. 
+
+## Past Life
 
 Previously, I was a student of physics at [BITS - Pilani](http://bit.ly/2wzA7xC). After stints at [HRI](http://www.hri.res.in) & [CFP, U Porto](https://faraday.fc.up.pt/cfp), I worked on the intersection of quantum information, holography and cosmology. For a while, I flirted with Game Theory, Data Science, Network Science, Sociophysics and Computational Psychiatry before taking a leap into entreprenurship. 
 
-I am currently building [Nova Semita](http://novasemita.com) to empower Indian youth with untapped potential. These days, I think about the future of learning, no-code tools, marketplaces and digital tools for India.
-
 
 ![Me](../images/kunksed.jpg)
+
+## Themes of Inquiry
+
+ - Income Share Agreements
+ - No-Code Tools
+ - SaaS for creators
+	 - Communities
+	 - Teachers
+ -  Cryptocurrency
+	 - Narrative of BTC
+	 - Borderless payments
+	 - Sovereign Individual
+ - Selling to US markets from India
+	 - No-Code & SaaS Consultancy
 
 ### Around the web
 
@@ -23,13 +43,9 @@ I am currently building [Nova Semita](http://novasemita.com) to empower Indian y
 - Twitter: [kunksed](https://twitter.com/kunksed)
 - LinkedIn: [raj-kunkolienkar](https://linkedin.com/in/raj-kunkolienkar)
 
-## Questions & Themes of Inquiry
-
-- 
-
 ## Music
 
-I am very easy to please, when it comes to different genres of music - across geographies and timelines. These days, I am tuned into Lo-Fi and Chill Hop in the background. Before Spotify became a thing, I used to loop The Beatles, Chopin, Pink Floyd, Andrew Bird, Jack Johnson, Regina Spektor, Sidney Bechet and Norah Jones. You can check out my listening history from the last decade on my [last.fm](http://last.fm/user/rrsk56/). I'd be thankful to the person who gets me to appreciate death metal.
+I am very easy to please, when it comes to different genres of music - across geographies and timelines. These days, I am tuned into Pop, Lo-Fi and Chill Hop in the background. Before Spotify became a thing, I used to loop The Beatles, Chopin, Pink Floyd, Andrew Bird, Jack Johnson, Regina Spektor, Sidney Bechet and Norah Jones. You can check out my listening history from the last decade on my [last.fm](http://last.fm/user/rrsk56/).
 
 ## Timeline
 
@@ -54,7 +70,7 @@ I am very easy to please, when it comes to different genres of music - across ge
 - **Static Site Generator:** [Gatsby](https://gatsbyjs.org) 🤯
 - **Starter Packs:** [Firefly](http://getfirefly.org) 👌🏽
 - **Editor:** [Visual Studio Code](https://code.visualstudio.com/) 💫
-- **No Code** : [Zapier](http://zapier.com), [AirTable](http://airtable.com) 😉
+- **No Code** : [Glide](glideapps.com), [Zapier](http://zapier.com), [AirTable](http://airtable.com), [Retool](tryretool.com), [Parabola](http://parabola.io) 😉
 
 *Gadets*
 
