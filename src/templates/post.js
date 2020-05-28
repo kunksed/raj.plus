@@ -70,6 +70,8 @@ export default class PostTemplate extends Component {
               Discuss
             </a>
           </div>
+
+{/* 
           <h3>Join the newsletter</h3>
           <p>
             I write about JavaScript, programming, and front-end design. Join over{' '}
@@ -77,6 +79,7 @@ export default class PostTemplate extends Component {
             Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>
           </p>
           <NewsletterForm />
+*/}
         </article>
         <UserInfo config={config} />
       </Layout>
