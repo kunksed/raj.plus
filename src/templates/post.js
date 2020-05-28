@@ -70,6 +70,7 @@ export default class PostTemplate extends Component {
               Discuss
             </a>
           </div>
+        </article>
 
 {/* 
           <h3>Join the newsletter</h3>
@@ -79,9 +80,8 @@ export default class PostTemplate extends Component {
             Unsubscribe whenever. <u>Never any spam, ads, or affiliate links.</u>
           </p>
           <NewsletterForm />
+          <UserInfo config={config} /> 
 */}
-        </article>
-        <UserInfo config={config} />
       </Layout>
     )
   }
