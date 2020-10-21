@@ -10,14 +10,15 @@
   status = 200
 
 [[redirects]]
-  from = "/meet"
-  to = "https://calendly.com/kunk/chat"
-  status = 302
-
-[[redirects]]
   from = "/chat"
-  to = "https://calendly.com/kunk/chat"
+  to = "https://calendly.com/kunksed/chat"
   status = 302
+  
+[[redirects]]
+  from = "/team"
+  to = "https://calendly.com/kunksed/stoateam"
+  status = 302  
+
   
   [[redirects]]
   from = "/wa"
