@@ -17,8 +17,12 @@
 [[redirects]]
   from = "/team"
   to = "https://calendly.com/kunksed/stoateam"
-  status = 302  
-
+  status = 302
+  
+[[redirects]]
+  from = "/stoa"
+  to = " https://calendly.com/kunksed/stoa"
+  status = 302
   
   [[redirects]]
   from = "/wa"
