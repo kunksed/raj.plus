@@ -43,3 +43,8 @@
   from = "/zoomlink"
   to = "https://us04web.zoom.us/j/71662669491?pwd=VEgvQ25IYlBUMnR0VnpCWGhjY285dz09"
   status = 302
+
+  [[redirects]]
+  from = "/panelists"
+  to = "https://us04web.zoom.us/j/71662669491?pwd=VEgvQ25IYlBUMnR0VnpCWGhjY285dz09"
+  status = 302
