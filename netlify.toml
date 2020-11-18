@@ -38,3 +38,8 @@
   from = "/zoom"
   to = "https://us04web.zoom.us/j/3071093231?pwd=UzhWQjdpSVRMNW5yUVIydkd1ZGhTUT09"
   status = 302
+  
+  [[redirects]]
+  from = "/zoomlink"
+  to = "https://us04web.zoom.us/j/71662669491?pwd=VEgvQ25IYlBUMnR0VnpCWGhjY285dz09"
+  status = 302
