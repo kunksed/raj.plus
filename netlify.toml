@@ -41,15 +41,11 @@
   
   [[redirects]]
   from = "/zoomlink"
-  to = "https://us02web.zoom.us/j/81849919671"
+  to = "https://us02web.zoom.us/j/85903493398?pwd=c1hiM05wUXlTK0J6QkxmZWY3Rjd5UT09"
   status = 302
   
-    [[redirects]]
-  from = "/boomlink"
-  to = "https://us04web.zoom.us/j/71662669491?pwd=VEgvQ25IYlBUMnR0VnpCWGhjY285dz09"
-  status = 302
 
   [[redirects]]
   from = "/panelists"
-  to = "https://us02web.zoom.us/j/81849919671"
+  to = "https://us02web.zoom.us/j/85903493398?pwd=c1hiM05wUXlTK0J6QkxmZWY3Rjd5UT09"
   status = 302
