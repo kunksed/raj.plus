@@ -5,11 +5,6 @@
   YARN_VERSION = "1.7.0"
 
 [[redirects]]
-  from = "/ns-chat"
-  to = "https://www.meetingbird.com/h/rajk"
-  status = 200
-
-[[redirects]]
   from = "/chat"
   to = "https://calendly.com/kunksed/chat"
   status = 302
